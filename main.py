@@ -4,7 +4,7 @@ print("Welcome to the tip calculator!")
 
 bill = input("What was the total bill? ")
 
-tip_amount = (input("How much tip would you like to give? 10, 12, or 15? "))
+tip_amount = input("How much tip would you like to give? 10, 12, or 15? ")
 
 people_splitting = input("How many people are splitting the bill? ")
 
